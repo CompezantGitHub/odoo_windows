@@ -1,7 +1,1 @@
-2024-02-29 09:11:38,235 39744 INFO ? odoo: Odoo version 17.0+e-20240107 
-2024-02-29 09:11:38,236 39744 INFO ? odoo: Using configuration file at E:\odoo17\server\odoo.conf 
-2024-02-29 09:11:38,236 39744 INFO ? odoo: addons paths: ['E:\\odoo17\\server\\odoo\\addons', 'e:\\odoo17\\sessions\\addons\\17.0', 'e:\\odoo17\\server\\odoo\\addons'] 
-2024-02-29 09:11:38,236 39744 INFO ? odoo: database: openpg@localhost:5432 
-2024-02-29 09:11:40,733 39744 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe 
-2024-02-29 09:11:44,693 39744 INFO ? odoo.service.server: Initiating shutdown 
-2024-02-29 09:11:44,694 39744 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+
